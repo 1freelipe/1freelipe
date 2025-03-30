@@ -4,7 +4,7 @@
 
 <h4>Atualmente estudando Desenvolvimento de Software Multiplataforma</h4>
   
-<h5> Algumas ferramentas que uso: </h5>
+<h5> Algumas ferramentas que tenho mais facilidade de usar.: </h5>
 
 <div style="display:inline">
   <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
@@ -20,8 +20,10 @@
   <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
 </div>
 
-<h5>Inglês intermediário. 💙</h5>
-<h5>Construindo uma nova paixão por automação!!!💻</h5>
+<h5>Meu objetivo é ser um desenvolvedor full-stack.</h5>
+
+<h5>Construindo uma nova paixão por automação com python e selenium e, atualmente estudando fortemente HTML/CSS juntamente com Javascript!!!💻</h5>
+
 
 
 
