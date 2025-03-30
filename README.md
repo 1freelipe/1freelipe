@@ -4,7 +4,7 @@
 
 <h4>Atualmente estudando Desenvolvimento de Software Multiplataforma</h4>
   
-<h5> Algumas ferramentas que tenho mais facilidade de usar.: </h5>
+<h5> Algumas ferramentas que tenho mais facilidade de usar: </h5>
 
 <div style="display:inline">
   <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
