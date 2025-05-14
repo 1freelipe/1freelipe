@@ -20,9 +20,8 @@
   <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
 </div>
 
-<h5>Meu objetivo é ser um desenvolvedor full-stack.</h5>
+<h5>Meu objetivo é ser um desenvolvedor de ponta</h5>
 
-<h5>Construindo uma nova paixão por automação com python e selenium e, atualmente estudando fortemente HTML/CSS juntamente com Javascript!!!💻</h5>
 
 
 
