@@ -1,10 +1,9 @@
 ## Welcome to my GitHub profile!! 👾
 
-<div>
-  <p align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif">
-  </p>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/1freelipe/1freelipe/main/banner.png" style="max-width:400px; width:100%; height:auto;" alt="Banner">
+</p>
+
 # 👋 Olá! Sou Felipe Rodrigues
 
 Estudante de Desenvolvimento de Software Multiplataforma, apaixonado por tecnologia, programação competitiva e desenvolvimento web.
