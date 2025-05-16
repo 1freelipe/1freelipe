@@ -8,7 +8,7 @@
 
 Estudante de Desenvolvimento de Software Multiplataforma, apaixonado por tecnologia, programação competitiva e desenvolvimento web.
 
-🎯 Atualmente focado em:
+## 🎯 Atualmente focado em:
 - C++ para programação competitiva
 - Desenvolvimento de jogos simples
 - Estudo de HTML, CSS, JavaScript, Linux, Azure e IA
