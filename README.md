@@ -1,28 +1,45 @@
 ## Welcome to my GitHub profile!! 👾
 
-<div align='center' style="display:inline">
-  <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
-  <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
-  <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding gif">
+</p>
+
+# 👋 Olá! Sou Felipe Rodrigues
+
+Estudante de Desenvolvimento de Software Multiplataforma, apaixonado por tecnologia, programação competitiva e desenvolvimento web.
+
+🎯 Atualmente focado em:
+- C++ para programação competitiva
+- Desenvolvimento de jogos simples
+- Estudo de HTML, CSS, JavaScript, Linux, Azure e IA
+
+## 🎮 Principais Projetos
+
+- ✅ [Jogo da Velha](./jogo-da-velha/README.md)
+- ✅ [Jogo da Forca](./jogo-da-forca/README.md)
+- ✅ [Landing Page](https://1freelipe.github.io/Landing-Page/)
+
+## 🧰 Tecnologias
+
+<div align='center' display=inline>
+  <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
+  <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
+  <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 </div>
 
-<div align='center' style="display:inline">
-  <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
-  <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
-  <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
+<div align='center' display='inline'>
+  <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+  <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
+  <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
 </div>
 
-<h4> Eu sou o Felipe Rodrigues, sou apaixonado por tecnologia desde criança e o mais novo ingressante ao mundo da programação!</h4>
+## 📫 Contato
 
-<h4>Atualmente estudando Desenvolvimento de Software Multiplataforma</h4>
-  
-<h5> Algumas ferramentas que tenho mais facilidade de usar: </h5>
+Fique à vontade para contribuir, sugerir melhorias ou trocar ideias!
 
-<h5>Meu objetivo é ser um desenvolvedor de ponta</h5>
+<a href="https://www.linkedin.com/in/felipe-rodrigues-509656189/" target="_blank" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/freeliipee_/" target="_blank" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
-
-
-
-
+> “A prática leva à perfeição. A persistência leva além.”
