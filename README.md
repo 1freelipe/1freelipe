@@ -1,7 +1,7 @@
 ## Welcome to my GitHub profile!! 👾
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width:400px; width:100%; height:auto;" alt="Banner">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" max-width='400'; width='100%'; height='auto' alt="Banner">
 </p>
 
 # 👋 Olá! Sou Felipe Rodrigues
