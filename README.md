@@ -1,7 +1,7 @@
 ## Welcome to my GitHub profile!! 👾
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/1freelipe/1freelipe/main/banner.png" style="max-width:400px; width:100%; height:auto;" alt="Banner">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width:400px; width:100%; height:auto;" alt="Banner">
 </p>
 
 # 👋 Olá! Sou Felipe Rodrigues
