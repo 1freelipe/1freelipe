@@ -15,8 +15,8 @@ Estudante de Desenvolvimento de Software Multiplataforma, apaixonado por tecnolo
 
 ## 🎮 Principais Projetos
 
-- ✅ [Jogo da Velha](./jogo-da-velha/README.md)
-- ✅ [Jogo da Forca](./jogo-da-forca/README.md)
+- ✅ [Jogo da Velha](https://github.com/1freelipe/Jogo-da-forca/blob/main/README.md)
+- ✅ [Jogo da Forca](https://github.com/1freelipe/Jogo-da-velha/blob/main/README.md)
 - ✅ [Landing Page](https://1freelipe.github.io/Landing-Page/)
 
 ## 🧰 Tecnologias
