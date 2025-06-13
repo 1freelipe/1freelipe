@@ -8,6 +8,10 @@
 
 Estudante de Desenvolvimento de Software Multiplataforma, apaixonado por tecnologia, programação competitiva e desenvolvimento web.
 
+## 🏆 Competições Acadêmicas
+- Participante do **InterFatecs 2025**, representando a FATEC Araras na categoria [Lógica de Programação].
+- 2º Colocado na classificação por unidade.
+
 ## 🎯 Atualmente focado em:
 - C++ para programação competitiva
 - Desenvolvimento de jogos simples
