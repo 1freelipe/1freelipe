@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width='400' height='auto' alt="Banner">
 </p>
 
-# 👋 Olá! Sou Felipe Rodrigues
+# Olá! Sou Felipe Rodrigues
 
 Estudante de Desenvolvimento de Software Multiplataforma, apaixonado por tecnologia, programação competitiva e desenvolvimento web.
 
@@ -15,7 +15,7 @@ Estudante de Desenvolvimento de Software Multiplataforma, apaixonado por tecnolo
 ## 🎯 Atualmente focado em:
 - C++ para programação competitiva
 - Desenvolvimento de jogos simples
-- Estudo de HTML, CSS, JavaScript, Linux, mySQL e IA
+- Estudo de HTML, CSS, JavaScript, mySQL e Data Science
 
 ## 🎮 Principais Projetos
 
