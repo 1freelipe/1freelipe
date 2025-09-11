@@ -13,16 +13,9 @@ Estudante de Desenvolvimento de Software Multiplataforma, apaixonado por tecnolo
 - 2º Colocado na classificação por unidade.
 
 ## 🎯 Atualmente focado em:
-- C++ para programação competitiva
-- Desenvolvimento de jogos simples
-- Estudo de HTML, CSS, JavaScript, mySQL e Data Science
-
-## 🎮 Principais Projetos
-
-- ✅ [Jogo da Velha](https://github.com/1freelipe/Jogo-da-forca/blob/main/README.md)
-- ✅ [Jogo da Forca](https://github.com/1freelipe/Jogo-da-velha/blob/main/README.md)
-- ✅ [Landing Page](https://1freelipe.github.io/Landing-Page/)
-- ✅ [Calculadora IMC](https://1freelipe.github.io/Calculadora-IMC/)
+- Frontend: HTML, CSS, Javascript
+- Backend: Node.js, Java, Python
+- Banco de dados: MySQL, MongoDB, MariaDB
 
 ## 🧰 Tecnologias
 
