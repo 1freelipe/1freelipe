@@ -1,19 +1,34 @@
-<div align="center" style="position: relative;">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=2670&auto=format&fit=crop" width="100%" height="250px" style="object-fit: cover; opacity: 0.85; border-radius: 10px;">
-  
-  <h1 style="position: absolute; top: 32%; left: 50%; transform: translate(-50%, -50%); color: #ffffff; margin: 0; font-size: 3em; text-shadow: 2px 2px 6px rgba(0,0,0,0.7);">
-    FELIPE RODRIGUES
-  </h1>
-
-  <h3 style="position: absolute; top: 63%; left: 50%; transform: translate(-50%, -50%); color: #e2e8f0; margin: 0; font-weight: 300; text-shadow: 1px 1px 4px rgba(0,0,0,0.8);">
-    Full Stack Developer • Software Architecture • Systems Engineering
-  </h3>
+<div align="center">
+  <table style="border: none; background-color: transparent;">
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="160px" style="border-radius: 10px;" alt="Coding Animation"/>
+      </td>
+      <td align="left" style="padding-left: 30px;">
+        <h1 style="margin: 0; font-size: 2.5em; line-height: 1;">FELIPE RODRIGUES</h1>
+        <h3 style="margin: 8px 0 0 0; font-weight: normal; color: #6e7681;">
+          Full Stack Developer | Software Architecture
+        </h3>
+        <p style="margin-top: 10px; font-weight: 500;">
+          Construindo o futuro com <b>Sistemas Escaláveis</b> e <b>Clean Code</b>.
+        </p>
+        <p style="margin-top: 15px;">
+          <a href="https://www.linkedin.com/in/felipe-rodrigues-509656189/" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+          </a>
+          <a href="https://www.instagram.com/freeliipee_/" target="_blank">
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+          </a>
+          <a href="mailto:seu_email@exemplo.com">
+            <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-
----
-
-## Current Project
+## Current Flagship Project
 
 ### [Mainteer](https://www.mainteer.com.br)
 > **Automotive Workshop Management Ecosystem**
@@ -31,8 +46,6 @@ Tecnologias utilizadas: **React, Node.js, PHP/Laravel, MySQL**, integrações RE
   <img src="https://img.shields.io/website?label=Mainteer%20Status&style=for-the-badge&url=https%3A%2F%2Fwww.mainteer.com.br">
 </a>
 
----
-
 ## Professional Summary
 
 Graduando em **Desenvolvimento de Software Multiplataforma** (FATEC Araras), atuo como **Full Stack Developer**, com foco em arquitetura de sistemas, eficiência técnica e boas práticas de programação.
@@ -43,9 +56,7 @@ Graduando em **Desenvolvimento de Software Multiplataforma** (FATEC Araras), atu
 | :------------------ | :------ |
 | **InterFatecs 2025** | Representante na categoria *Lógica de Programação* |
 | **Ranking** | **2º Lugar** na classificação da unidade |
-| **FATEC Araras** | BS in Multiplatform Software Development |
-
----
+| **FATEC Araras** | Multiplatform Software Development |
 
 ## Technology Stack
 
@@ -61,8 +72,6 @@ Graduando em **Desenvolvimento de Software Multiplataforma** (FATEC Araras), atu
   <img alt="MongoDB" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img alt="Git" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
-
----
 
 <div align="center">
   <i>"A prática leva à perfeição. A persistência leva além."</i>
