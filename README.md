@@ -2,7 +2,7 @@
   <table style="border: none; background-color: transparent;">
     <tr>
       <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="160px" style="border-radius: 10px;" alt="Coding Animation"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120px" style="border-radius: 50%;" alt="Coding Gif"/>
       </td>
       <td align="left" style="padding-left: 30px;">
         <h1 style="margin: 0; font-size: 2.5em; line-height: 1;">FELIPE RODRIGUES</h1>
@@ -10,7 +10,7 @@
           Full Stack Developer | Software Architecture
         </h3>
         <p style="margin-top: 10px; font-weight: 500;">
-          Construindo o futuro com <b>Sistemas Escaláveis</b> e <b>Clean Code</b>.
+    Sistemas Escaláveis</b> e <b>Clean Code</b>.
         </p>
         <p style="margin-top: 15px;">
           <a href="https://www.linkedin.com/in/felipe-rodrigues-509656189/" target="_blank">
@@ -28,7 +28,7 @@
   </table>
 </div>
 
-## Current Flagship Project
+## Current Project
 
 ### [Mainteer](https://www.mainteer.com.br)
 > **Automotive Workshop Management Ecosystem**
