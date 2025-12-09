@@ -13,7 +13,7 @@
     Sistemas Escaláveis</b> e <b>Clean Code</b>.
         </p>
         <p style="margin-top: 15px;">
-          <a href="https://www.linkedin.com/in/felipe-rodrigues-509656189/" target="_blank">
+          <a href="https://www.linkedin.com/in/felipe-rodrigues-developer/" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
           </a>
           <a href="https://www.instagram.com/freeliipee_/" target="_blank">
