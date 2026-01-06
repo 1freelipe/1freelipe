@@ -40,7 +40,7 @@ O **Mainteer** é um ecossistema SaaS projetado para operações de oficinas mec
 - CRM orientado a performance  
 - Fluxos automatizados e arquitetura escalável  
 
-Tecnologias utilizadas: **React, Node.js, PHP/Laravel, MySQL**, integrações REST e modelagem orientada a domínio.
+Tecnologias utilizadas: **React, Node.js, PHP, MySQL**, integrações REST e modelagem orientada a domínio.
 
 <a href="https://www.mainteer.com.br">
   <img src="https://img.shields.io/website?label=Mainteer%20Status&style=for-the-badge&url=https%3A%2F%2Fwww.mainteer.com.br">
