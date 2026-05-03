@@ -88,8 +88,8 @@ Graduando em **Desenvolvimento de Software Multiplataforma** (FATEC Araras), atu
 
 <div align="center">
   
-  <img src="https://github-readme-stats-eta-one-17.vercel.app/api?username=1freelipe&layout=compact&theme=dark&title_color=ffffff&text_color=aaaaaa&bg_color=0F1214&border_color=ffffff" height="180em" width="49%"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=1freelipe&theme=dark&background=0F1214&currStreakLabel=61DAFB&ring=61DAFB&fire=61DAFB" width="49%"/>
+  <img src="https://github-readme-stats-eta-one-17.vercel.app/api?username=1freelipe&layout=compact&theme=dark&title_color=ffffff&text_color=aaaaaa&bg_color=0F1214&border_color=ffffff" width="49%"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=1freelipe&theme=dark&background=0F1214&currStreakLabel=61DAFB&ring=61DAFB&fire=61DAFB&card_width=495"/>
   
   <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=1freelipe&bg_color=0F1214&border_color=ffffff&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
