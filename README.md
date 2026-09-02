@@ -79,16 +79,16 @@ Graduando em **Desenvolvimento de Software Multiplataforma** (FATEC Araras), atu
 ## My Statistics
 
 <p align='center'>
-    <img src="https://github-readme-stats-eta-one-17.vercel.app/api/top-langs/?username=1freelipe&layout=compact&theme=dark&title_color=ffffff&text_color=aaaaaa&bg_color=0F1214&border_color=ffffff" height="170em"/>
+    <img src="https://github-stats-extended-frontend-steel-eight.vercel.app/api/top-langs/?username=1freelipe&layout=compact&theme=dark&title_color=ffffff&text_color=aaaaaa&bg_color=0F1214&border_color=ffffff" height="170em"/>
 </p>
 
 <div align="center">
   
-  <img src="https://github-stats-extended-frontend-steel-eight.vercel.app//api?username=1freelipe&layout=compact&theme=dark&title_color=ffffff&text_color=aaaaaa&bg_color=0F1214&border_color=ffffff&hide_title=true&include_all_commits=true" width="49%"/>
-  <img src="https://github-stats-extended-frontend-steel-eight.vercel.app//?user=1freelipe&theme=dark&background=0F1214&currStreakLabel=61DAFB&ring=61DAFB&fire=61DAFB&card_width=530" width="49%"/>
+  <img src="https://github-stats-extended-frontend-steel-eight.vercel.app/api?username=1freelipe&layout=compact&theme=dark&title_color=ffffff&text_color=aaaaaa&bg_color=0F1214&border_color=ffffff&hide_title=true&include_all_commits=true" width="49%"/>
+  <img src="https://github-stats-extended-frontend-steel-eight.vercel.app/?user=1freelipe&theme=dark&background=0F1214&currStreakLabel=61DAFB&ring=61DAFB&fire=61DAFB&card_width=530" width="49%"/>
   
   <p align="center">
-  <img src="https://github-stats-extended-frontend-steel-eight.vercel.app//graph?username=1freelipe&bg_color=0F1214&border_color=ffffff&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-stats-extended-frontend-steel-eight.vercel.app/graph?username=1freelipe&bg_color=0F1214&border_color=ffffff&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
   </p>
 
 </div>
